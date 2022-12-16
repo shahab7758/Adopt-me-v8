@@ -1,0 +1,24 @@
+{
+  "name": "adopt-me-react-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahab7758/Adopt-me-v8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahab7758/Adopt-me-v8/issues"
+  },
+  "homepage": "https://github.com/shahab7758/Adopt-me-v8#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
